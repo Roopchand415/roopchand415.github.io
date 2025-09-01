@@ -1,5 +1,3 @@
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/9fb0846a-eff1-427c-ad57-ae77112affdb" /># roop.github.io
-
 My personal portfolio site
 # ROOP CHAND
 
