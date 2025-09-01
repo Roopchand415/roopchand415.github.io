@@ -1,7 +1,7 @@
 # roop.github.io
 My personal portfolio site
 
-# Roop
+# ROOP CHAND
 **Computer Science Student | AI & Web Developer**
 ## About Me
 
