@@ -2,7 +2,7 @@
 
 My personal portfolio site
 
-# ROOP CHAND
+
 **Computer Science Student | AI & Web Developer**
 ## About Me
 
