@@ -24,7 +24,7 @@ A real-time AI system using CNN and OpenCV...
 - Resume formatting and documentation
 ## Contact
 
-📧 Email: yourname@email.com  
+📧 Email:    roopmalhi24@email.com  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/roop-kumar-543999269)  
 🌐 GitHub: [github.com/yourusername](https://github.com/Roopchand415)
 
